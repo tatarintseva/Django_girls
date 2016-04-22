@@ -1,0 +1,7 @@
+.pip*
+.bash_history*
+.cache*
+*.pyc
+.DS_Store
+*.swp
+.vagrant
