@@ -1,0 +1,13 @@
+.center a {
+    color: #FCA205;
+}
+
+.center{
+    text-align: center;
+    padding:1em;
+    background-color: grey;
+}
+
+.pub_info{
+    color: grey;
+}
