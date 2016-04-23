@@ -6,3 +6,4 @@
 *.swp
 .vagrant
 .viminfo
+db.sqlite3
